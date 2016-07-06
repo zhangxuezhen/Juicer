@@ -1,1 +1,1 @@
-# juicer-iOS
+# Juicer is a weekly application.
